@@ -1,6 +1,6 @@
 cask "mysli" do
-  version "V1.1.56"
-  sha256 "018a698f7ea02806f81d36008804fef57a881939349d8fafd44de474a9b18977"
+  version "V1.1.57"
+  sha256 "d1f2ce1380efb6839693d8acd3b5079bdba798735dc9dbb83eeb436696ac7207"
 
   url "https://github.com/ChristianVilen/mysli/releases/download/#{version}/Mysli.zip"
   name "Mysli"
